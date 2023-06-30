@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook file that implements a machine learn
 
 ## Dataset
 
-- The model is trained on the [Heart Disease Prediction dataset](Heart-Disease-Prediction-Model).
+- The model is trained on the [Heart Disease Prediction dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 - The dataset consists of various medical features such as age, sex, cholesterol levels, blood pressure, and presence of heart disease.
 
 ## Notebook
@@ -17,7 +17,7 @@ This repository contains a Jupyter Notebook file that implements a machine learn
 
 To use this model, follow these steps:
 
-1. Download the [Heart Disease Prediction dataset](Heart-Disease-Prediction-Model).
+1. Download the [Heart Disease Prediction dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 2. Place the dataset file in the same directory as the Jupyter Notebook file.
 3. Open the Jupyter Notebook file.
 4. Run the notebook cells to load the data, preprocess it, train the model, and make predictions.
@@ -40,7 +40,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- The Heart Disease Prediction dataset is provided by [Heart-Disease-Prediction-Model](Heart-Disease-Prediction-Model).
+- The Heart Disease Prediction dataset is provided by [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 - The model implementation and techniques are inspired by various resources and tutorials in the field of machine learning.
 
 For more details and a step-by-step guide, refer to the [Jupyter Notebook file](https://github.com/AryanKaushal2002/Heart-Disease-Prediction-Model/blob/main/Heart%20Disease%20Prediction%20model/Heart_Disease_Prediction.ipynb) in this repository.
